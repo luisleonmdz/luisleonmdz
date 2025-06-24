@@ -1,7 +1,5 @@
 ## Hey, I'm Arturo
 
-![Static Badge](https://img.shields.io/badge/Linkedin_Profile-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-arturo-leon-mendez%2F)
-
 ##Top Technologies:
 
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=white)
@@ -24,4 +22,4 @@ I'm a Data Scientist with a background in audio engineering and media production
 
 Let’s connect and build something great with data!
 
-- 📫 How to reach me: luisleonm_98@hotmail.com
+- 📫 How to reach me: luisleonm_98@hotmail.com / https://www.linkedin.com/in/luis-arturo-leon-mendez/
