@@ -1,9 +1,4 @@
-## Hey, I'm Arturo
-
-### Top Technologies:
-
-![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=white)
-![Static Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&labelColor=white)
+## Hey, I'm Arturo 👋
 
 I'm a Data Scientist with a background in audio engineering and media production, now focused on solving real-world problems through data. I bring together creative thinking and analytical skills to explore data, build predictive models, and communicate insights clearly.
 
@@ -22,3 +17,9 @@ I'm a Data Scientist with a background in audio engineering and media production
 Let’s connect and build something great with data!
 
 - 📫 How to reach me: luisleonm_98@hotmail.com / https://www.linkedin.com/in/luis-arturo-leon-mendez/
+
+### Top Technologies:
+
+![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=yellow)
+![Static Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue)
+![Static Badge](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=for-the-badge&labelColor=white)
