@@ -23,3 +23,7 @@ Let’s connect and build something great with data!
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=yellow)
 ![Static Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=for-the-badge&labelColor=white)
+
+### GitHub Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisleonmdz&theme=great-gatsby)](https://git.io/streak-stats)
