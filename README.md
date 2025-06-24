@@ -1,6 +1,6 @@
 ## Hey, I'm Arturo
 
-##Top Technologies:
+## Top Technologies:
 
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql&labelColor=white)
